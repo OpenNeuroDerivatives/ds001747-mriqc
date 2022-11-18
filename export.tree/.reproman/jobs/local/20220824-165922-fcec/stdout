@@ -1,0 +1,19 @@
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds001747-mriqc
+   Processes per host: 2
+   Total processes:    2
+   Total jobs:         2
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 0 running job 1 on c207-002.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds001747-mriqc/.reproman/jobs/local/20220824-165922-fcec/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds001747-mriqc/.reproman/jobs/local/20220824-165922-fcec/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds001747-mriqc/.reproman/jobs/local/20220824-165922-fcec/stderr.0)
+Launcher: Task 1 running job 2 on c207-002.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds001747-mriqc/.reproman/jobs/local/20220824-165922-fcec/runscript 1 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds001747-mriqc/.reproman/jobs/local/20220824-165922-fcec/stdout.1 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds001747-mriqc/.reproman/jobs/local/20220824-165922-fcec/stderr.1)
+Launcher: Job 1 completed in 9963 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Job 2 completed in 9962 seconds.
+Launcher: Task 1 done. Exiting.
+Launcher: Done. Job exited without errors
